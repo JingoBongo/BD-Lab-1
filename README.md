@@ -9,3 +9,5 @@ Unfortunately, shrink plan has failed (it was was a succes untill I tried to exe
 As well as task 4, I did a plan, it was executed with an error, but this time report was fine and assured me that the plan works.
 
 I did everything just like the book tells me and I'd like to know what is wrong.
+
+Also files from ex.1 I've put in Data only, files from ex.2: logs in Logs, second one in Data.
