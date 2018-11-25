@@ -1,0 +1,7 @@
+MSsql is joking on me. I hate it. I hate every part of this software.
+When I do DB work in my project, I have almost no problems. 
+
+Because there is not mssql, there is mysql.
+Because there is no such thing, as I can't do lab 8 before I did 7, and I can't do 7 because of 6.
+
+I am sorry. I need more time
