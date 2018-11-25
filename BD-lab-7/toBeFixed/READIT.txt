@@ -1,0 +1,6 @@
+Once again, these files just mean I care about completing DB labs, just don't have anough time to fix my own mssql. 
+these exercises in lab 7 are not mine by any point, I just need more time. (I cannot do my homework due to mssql problems. Fot example it 
+now marks everything in red and says that this thing is an error etc, but the query works. And when I get actual errors I can't even see where they are)
+
+Now I have updated university (not universitatea this time) database, I'm trying to fix lab 6 in order to do this one, but once again,
+I have problems like i mentioned before. 
