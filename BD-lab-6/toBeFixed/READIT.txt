@@ -1,5 +1,1 @@
 
-  I completely hate Microsoft sql at this point. It erased my access to DB universitatea completely, after that I had to try to create new one, and it kept me with weird non-existent errors that could not be there for real. And the lab 6 was uploaded here not full. As well as I can't do lab 7 cuz it needs changes from lab 6. Thank you, microsoft sql, and good lord, please burn it's creators somewhere in hell.
-  
-  Long story short all I upload in labs 6,7 and probably 8 are not final products, cuz this piece of sh**ty software requires patience
-and time. More than I have right now
