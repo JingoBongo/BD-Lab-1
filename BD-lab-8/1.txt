@@ -1,0 +1,1 @@
+insert can be done, but modifying or deleting columns leads to an error, because our view depends on this table
